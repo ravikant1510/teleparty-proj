@@ -10,6 +10,7 @@
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-scripts": "5.0.1",
+    "teleparty-websocket-lib": "https://github.com/watchparty-org/teleparty-websocket-lib",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -35,5 +36,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "sass": "^1.90.0"
   }
 }
